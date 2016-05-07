@@ -19,6 +19,9 @@
 #menu-0 .mbr-navbar__items a {
   font-family: 'Lora', serif;
 }
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #footer1-2 P {
   font-family: 'Lora', serif;
   color: #cccccc;
@@ -49,6 +52,9 @@
 #menu-9 .mbr-navbar__items a {
   font-family: 'Lora', serif;
 }
+#menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #footer1-10 P {
   font-family: 'Lora', serif;
   color: #cccccc;
@@ -78,6 +84,9 @@
 #menu-18 .mbr-navbar__items a {
   font-family: 'Lora', serif;
 }
+#menu-18 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #footer1-19 P {
   font-family: 'Lora', serif;
   color: #cccccc;
@@ -101,6 +110,9 @@
 }
 #menu-34 .mbr-navbar__items a {
   font-family: 'Lora', serif;
+}
+#menu-34 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #footer1-35 P {
   font-family: 'Lora', serif;
@@ -127,6 +139,9 @@
 #menu-42 .mbr-navbar__items a {
   font-family: 'Lora', serif;
 }
+#menu-42 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #footer1-43 P {
   font-family: 'Lora', serif;
   color: #cccccc;
@@ -137,5 +152,10 @@
   font-size: 16px;
 }
 #content1-48 P {
+  font-size: 14px;
+}
+
+#content1-20 P {
+  font-family: 'Lora', serif;
   font-size: 14px;
 }
